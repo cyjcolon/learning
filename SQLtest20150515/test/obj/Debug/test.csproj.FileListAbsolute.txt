@@ -1,0 +1,13 @@
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\test\bin\Debug\test.exe.config
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\test\bin\Debug\test.exe
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\test\bin\Debug\test.pdb
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\test\obj\Debug\test.Form1.resources
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\test\obj\Debug\test.Form2.resources
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\test\obj\Debug\test.Properties.Resources.resources
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\test\obj\Debug\test.csproj.GenerateResource.Cache
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\test\obj\Debug\test.exe
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\test\obj\Debug\test.pdb
+E:\我的文档\Visual Studio 2015\Projects\Github\learning\SQLtest20150515\test\bin\Debug\test.exe.config
+E:\我的文档\Visual Studio 2015\Projects\Github\learning\SQLtest20150515\test\obj\Debug\test.exe
+E:\我的文档\Visual Studio 2015\Projects\Github\learning\SQLtest20150515\test\obj\Debug\test.pdb

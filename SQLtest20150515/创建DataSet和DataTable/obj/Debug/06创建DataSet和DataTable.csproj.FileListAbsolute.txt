@@ -1,0 +1,9 @@
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\创建DataSet和DataTable\bin\Debug\创建DataSet和DataTable.exe.config
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\创建DataSet和DataTable\bin\Debug\创建DataSet和DataTable.exe
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\创建DataSet和DataTable\bin\Debug\创建DataSet和DataTable.pdb
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\创建DataSet和DataTable\obj\Debug\06创建DataSet和DataTable.csprojResolveAssemblyReference.cache
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\创建DataSet和DataTable\obj\Debug\创建DataSet和DataTable.exe
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\创建DataSet和DataTable\obj\Debug\创建DataSet和DataTable.pdb
+E:\我的文档\Visual Studio 2015\Projects\Github\learning\SQLtest20150515\创建DataSet和DataTable\bin\Debug\创建DataSet和DataTable.exe.config
+E:\我的文档\Visual Studio 2015\Projects\Github\learning\SQLtest20150515\创建DataSet和DataTable\obj\Debug\创建DataSet和DataTable.exe
+E:\我的文档\Visual Studio 2015\Projects\Github\learning\SQLtest20150515\创建DataSet和DataTable\obj\Debug\创建DataSet和DataTable.pdb
