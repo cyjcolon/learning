@@ -1,0 +1,12 @@
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\04封装SQLHelper\bin\Debug\04封装SQLHelper.exe.config
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\04封装SQLHelper\bin\Debug\04封装SQLHelper.exe
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\04封装SQLHelper\bin\Debug\04封装SQLHelper.pdb
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\04封装SQLHelper\obj\Debug\04封装SQLHelper.csprojResolveAssemblyReference.cache
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\04封装SQLHelper\obj\Debug\_04封装SQLHelper.Form1.resources
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\04封装SQLHelper\obj\Debug\_04封装SQLHelper.Properties.Resources.resources
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\04封装SQLHelper\obj\Debug\04封装SQLHelper.csproj.GenerateResource.Cache
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\04封装SQLHelper\obj\Debug\04封装SQLHelper.exe
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\04封装SQLHelper\obj\Debug\04封装SQLHelper.pdb
+E:\我的文档\Visual Studio 2015\Projects\Github\learning\SQLtest20150515\04封装SQLHelper\bin\Debug\04封装SQLHelper.exe.config
+E:\我的文档\Visual Studio 2015\Projects\Github\learning\SQLtest20150515\04封装SQLHelper\obj\Debug\04封装SQLHelper.exe
+E:\我的文档\Visual Studio 2015\Projects\Github\learning\SQLtest20150515\04封装SQLHelper\obj\Debug\04封装SQLHelper.pdb

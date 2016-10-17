@@ -1,0 +1,12 @@
+E:\我的文档\Visual Studio 2015\Projects\SQLtest20150515\01连接数据库增删改查\bin\Debug\01链接数据库.exe.config
+E:\我的文档\Visual Studio 2015\Projects\SQLtest20150515\01连接数据库增删改查\obj\Debug\01链接数据库.exe
+E:\我的文档\Visual Studio 2015\Projects\SQLtest20150515\01连接数据库增删改查\obj\Debug\01链接数据库.pdb
+E:\我的文档\Visual Studio 2015\Projects\SQLtest20150515\01连接数据库增删改查\bin\Debug\01链接数据库.exe
+E:\我的文档\Visual Studio 2015\Projects\SQLtest20150515\01连接数据库增删改查\bin\Debug\01链接数据库.pdb
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\01连接数据库增删改查\obj\Debug\01连接数据库增删改查.csprojResolveAssemblyReference.cache
+E:\我的文档\Visual Studio 2015\Projects\Github\learning\SQLtest20150515\01连接数据库增删改查\bin\Debug\01链接数据库.exe.config
+E:\我的文档\Visual Studio 2015\Projects\Github\learning\SQLtest20150515\01连接数据库增删改查\obj\Debug\01链接数据库.exe
+E:\我的文档\Visual Studio 2015\Projects\Github\learning\SQLtest20150515\01连接数据库增删改查\obj\Debug\01链接数据库.pdb
+E:\我的文档\Visual Studio 2015\Projects\Github\learning\SQLtest20150515\01连接数据库增删改查\bin\Debug\01链接数据库.exe
+E:\我的文档\Visual Studio 2015\Projects\Github\learning\SQLtest20150515\01连接数据库增删改查\bin\Debug\01链接数据库.pdb
+E:\我的文档\Visual Studio 2015\Projects\Github\learning\SQLtest20150515\01连接数据库增删改查\obj\Debug\01连接数据库增删改查.csprojResolveAssemblyReference.cache

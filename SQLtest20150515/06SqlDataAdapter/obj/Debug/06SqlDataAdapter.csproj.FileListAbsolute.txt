@@ -1,0 +1,12 @@
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\06SqlDataAdapter\bin\Debug\06SqlDataAdapter.exe.config
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\06SqlDataAdapter\bin\Debug\06SqlDataAdapter.exe
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\06SqlDataAdapter\bin\Debug\06SqlDataAdapter.pdb
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\06SqlDataAdapter\obj\Debug\_06SqlDataAdapter.Form1.resources
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\06SqlDataAdapter\obj\Debug\_06SqlDataAdapter.Properties.Resources.resources
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\06SqlDataAdapter\obj\Debug\06SqlDataAdapter.csproj.GenerateResource.Cache
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\06SqlDataAdapter\obj\Debug\06SqlDataAdapter.exe
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\06SqlDataAdapter\obj\Debug\06SqlDataAdapter.pdb
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\06SqlDataAdapter\obj\Debug\06SqlDataAdapter.csprojResolveAssemblyReference.cache
+E:\我的文档\Visual Studio 2015\Projects\Github\learning\SQLtest20150515\06SqlDataAdapter\bin\Debug\06SqlDataAdapter.exe.config
+E:\我的文档\Visual Studio 2015\Projects\Github\learning\SQLtest20150515\06SqlDataAdapter\obj\Debug\06SqlDataAdapter.exe
+E:\我的文档\Visual Studio 2015\Projects\Github\learning\SQLtest20150515\06SqlDataAdapter\obj\Debug\06SqlDataAdapter.pdb

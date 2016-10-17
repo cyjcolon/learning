@@ -1,0 +1,13 @@
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\03窗体登陆\bin\Debug\03窗体登陆.exe.config
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\03窗体登陆\bin\Debug\03窗体登陆.exe
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\03窗体登陆\bin\Debug\03窗体登陆.pdb
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\03窗体登陆\obj\Debug\03窗体登陆.csprojResolveAssemblyReference.cache
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\03窗体登陆\obj\Debug\_03窗体登陆.Form1.resources
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\03窗体登陆\obj\Debug\_03窗体登陆.Properties.Resources.resources
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\03窗体登陆\obj\Debug\03窗体登陆.csproj.GenerateResource.Cache
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\03窗体登陆\obj\Debug\03窗体登陆.exe
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\03窗体登陆\obj\Debug\03窗体登陆.pdb
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\03窗体登陆\obj\Debug\_03窗体登陆.EditPwd.resources
+E:\我的文档\Visual Studio 2015\Projects\Github\learning\SQLtest20150515\03窗体登陆\bin\Debug\03窗体登陆.exe.config
+E:\我的文档\Visual Studio 2015\Projects\Github\learning\SQLtest20150515\03窗体登陆\obj\Debug\03窗体登陆.exe
+E:\我的文档\Visual Studio 2015\Projects\Github\learning\SQLtest20150515\03窗体登陆\obj\Debug\03窗体登陆.pdb

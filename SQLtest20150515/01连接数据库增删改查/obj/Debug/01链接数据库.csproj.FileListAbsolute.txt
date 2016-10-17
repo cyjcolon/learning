@@ -1,0 +1,6 @@
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\01链接数据库\bin\Debug\01链接数据库.exe.config
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\01链接数据库\bin\Debug\01链接数据库.exe
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\01链接数据库\bin\Debug\01链接数据库.pdb
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\01链接数据库\obj\Debug\01链接数据库.csprojResolveAssemblyReference.cache
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\01链接数据库\obj\Debug\01链接数据库.exe
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\01链接数据库\obj\Debug\01链接数据库.pdb

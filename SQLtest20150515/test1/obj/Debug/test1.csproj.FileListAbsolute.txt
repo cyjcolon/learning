@@ -1,0 +1,9 @@
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\test1\bin\Debug\test1.exe.config
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\test1\bin\Debug\test1.exe
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\test1\bin\Debug\test1.pdb
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\test1\obj\Debug\test1.exe
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\test1\obj\Debug\test1.pdb
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\test1\obj\Debug\test1.csprojResolveAssemblyReference.cache
+E:\我的文档\Visual Studio 2015\Projects\Github\learning\SQLtest20150515\test1\bin\Debug\test1.exe.config
+E:\我的文档\Visual Studio 2015\Projects\Github\learning\SQLtest20150515\test1\obj\Debug\test1.exe
+E:\我的文档\Visual Studio 2015\Projects\Github\learning\SQLtest20150515\test1\obj\Debug\test1.pdb

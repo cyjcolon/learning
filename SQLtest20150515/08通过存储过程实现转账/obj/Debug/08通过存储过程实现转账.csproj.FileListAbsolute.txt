@@ -1,0 +1,12 @@
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\08通过存储过程实现转账\bin\Debug\08通过存储过程实现转账.exe.config
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\08通过存储过程实现转账\bin\Debug\08通过存储过程实现转账.exe
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\08通过存储过程实现转账\bin\Debug\08通过存储过程实现转账.pdb
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\08通过存储过程实现转账\obj\Debug\08通过存储过程实现转账.csprojResolveAssemblyReference.cache
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\08通过存储过程实现转账\obj\Debug\_08通过存储过程实现转账.Form1.resources
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\08通过存储过程实现转账\obj\Debug\_08通过存储过程实现转账.Properties.Resources.resources
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\08通过存储过程实现转账\obj\Debug\08通过存储过程实现转账.csproj.GenerateResource.Cache
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\08通过存储过程实现转账\obj\Debug\08通过存储过程实现转账.exe
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\08通过存储过程实现转账\obj\Debug\08通过存储过程实现转账.pdb
+E:\我的文档\Visual Studio 2015\Projects\Github\learning\SQLtest20150515\08通过存储过程实现转账\bin\Debug\08通过存储过程实现转账.exe.config
+E:\我的文档\Visual Studio 2015\Projects\Github\learning\SQLtest20150515\08通过存储过程实现转账\obj\Debug\08通过存储过程实现转账.exe
+E:\我的文档\Visual Studio 2015\Projects\Github\learning\SQLtest20150515\08通过存储过程实现转账\obj\Debug\08通过存储过程实现转账.pdb

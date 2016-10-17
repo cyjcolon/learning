@@ -1,0 +1,12 @@
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\07通过Ado.Net调用存储过程\bin\Debug\07通过Ado.Net调用存储过程.exe.config
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\07通过Ado.Net调用存储过程\bin\Debug\07通过Ado.Net调用存储过程.exe
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\07通过Ado.Net调用存储过程\bin\Debug\07通过Ado.Net调用存储过程.pdb
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\07通过Ado.Net调用存储过程\obj\Debug\_07通过Ado.Net调用存储过程.Form1.resources
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\07通过Ado.Net调用存储过程\obj\Debug\_07通过Ado.Net调用存储过程.Properties.Resources.resources
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\07通过Ado.Net调用存储过程\obj\Debug\07通过Ado.Net调用存储过程.csproj.GenerateResource.Cache
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\07通过Ado.Net调用存储过程\obj\Debug\07通过Ado.Net调用存储过程.exe
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\07通过Ado.Net调用存储过程\obj\Debug\07通过Ado.Net调用存储过程.pdb
+e:\我的文档\visual studio 2015\Projects\SQLtest20150515\07通过Ado.Net调用存储过程\obj\Debug\07通过Ado.Net调用存储过程.csprojResolveAssemblyReference.cache
+E:\我的文档\Visual Studio 2015\Projects\Github\learning\SQLtest20150515\07通过Ado.Net调用存储过程\bin\Debug\07通过Ado.Net调用存储过程.exe.config
+E:\我的文档\Visual Studio 2015\Projects\Github\learning\SQLtest20150515\07通过Ado.Net调用存储过程\obj\Debug\07通过Ado.Net调用存储过程.exe
+E:\我的文档\Visual Studio 2015\Projects\Github\learning\SQLtest20150515\07通过Ado.Net调用存储过程\obj\Debug\07通过Ado.Net调用存储过程.pdb
